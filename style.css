@@ -33,4 +33,7 @@ details {
 }
 #details div {
   float: left;
+  text-align: center;
+  background-color:  grey;
+  width: 25%;
 }
