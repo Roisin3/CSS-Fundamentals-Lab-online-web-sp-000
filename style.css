@@ -18,6 +18,11 @@ featured-property {
   text-align: center;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 12;
+}
+
 details {
   text-align: center;
 }
